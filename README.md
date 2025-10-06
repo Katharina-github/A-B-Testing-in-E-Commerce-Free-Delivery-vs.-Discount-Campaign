@@ -42,6 +42,9 @@ The project demonstrates how statistical rigor and business reasoning can be com
 | **Guardrails & Sanity Checks** | Validate randomization and promotional cost balance                            |
 | **Sensitivity Analysis**       | Simulate profit under changing margins and shipping costs                      |
 
+
+![Bayesian_Posterior](images/Bayesian_Posterior.png)
+
 ---
 
 ## Key Results
@@ -53,6 +56,12 @@ The project demonstrates how statistical rigor and business reasoning can be com
 | **Profit per User (€)**  | 6.5                         | 8.5                       | +2.0                  | +31%         |
 | **CUPED Adj. CR**        | 0.2036                      | 0.2173                    | +1.4 pp               | p = 0.0051   |
 | **Bayesian Pr(B>A)**     | 0.999 (CR), 1.000 (Revenue) | –                         | Strong evidence for B |              |
+
+![CI_Conversion_Rate](images/CI_Conversion_Rate.png)
+
+![CI_Revenue](images/CI_Revenue.png)
+
+![Forest_Analysis_Forest_Plot](images/Forest_Analysis_Forest_Plot.png)
 
 ---
 
@@ -70,6 +79,8 @@ Recommendation:
 Adopt Free Delivery as the preferred email campaign for the next marketing cycle.
 Monitor performance under changing logistics or margin conditions to confirm sustainability.
 
+![Overall_Business_Impact](images/Overall_Business_Impact.png)
+
 ---
 
 ## Business Impact & Sensitivity Summary
@@ -80,6 +91,8 @@ Monitor performance under changing logistics or margin conditions to confirm sus
 | 30%          | 1.2×                     | +1.62                 |
 | 40%          | 1.0×                     | +2.02                 |
 | 50%          | 1.2×                     | +2.18                 |
+
+![Sensitivity_Heatmap](images/Sensitivity_Heatmap.png)
 
 ---
 
