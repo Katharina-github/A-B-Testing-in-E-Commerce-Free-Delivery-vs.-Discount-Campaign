@@ -26,6 +26,7 @@ The project demonstrates how statistical rigor and business reasoning can be com
 | **MDE / Power**      | Detect +2pp absolute lift at α=0.05, Power=0.8                             |
 | **Sample Size**      | 25,000 users equally split across A/B                                      |
 | **Data**             | Synthetic but realistic e-commerce data (customer & sales behavior)        |
+
 Note:
 While statistical tests can never eliminate uncertainty completely, this experiment uses a robust design and multiple validation layers—randomization checks, CUPED variance reduction, and Bayesian inference—to ensure reliable conclusions.
 
