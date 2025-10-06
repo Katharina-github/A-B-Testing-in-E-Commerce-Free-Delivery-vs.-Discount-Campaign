@@ -43,7 +43,7 @@ The project demonstrates how statistical rigor and business reasoning can be com
 | **Sensitivity Analysis**       | Simulate profit under changing margins and shipping costs                      |
 
 
-![Bayesian_Posterior](images/Bayesian_Posterior.png)
+![Bayesian_posterior](images/Bayesian_posterior.png)
 
 ---
 
@@ -61,7 +61,7 @@ The project demonstrates how statistical rigor and business reasoning can be com
 
 ![CI_Revenue](images/CI_Revenue.png)
 
-![Forest_Analysis_Forest_Plot](images/Forest_Analysis_Forest_Plot.png)
+![Forest_Plot_Cluster_Analysis](images/Forest_Plot_Cluster_Analysis.png)
 
 ---
 
